@@ -1,0 +1,40 @@
+settings_secret.py
+*.pyc
+.DS_Store
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# mac os
+.DS_Store
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Django stuff:
+*.log
+db.sqlite3
+*data/
+
+
+

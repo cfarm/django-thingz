@@ -1,0 +1,6 @@
+{% if pulled_question %}
+  <h1>Question number {{pulled_question.id}}: {{ pulled_question }}</h1>
+  <h2>Published {{pulled_question.pub_date}}</h2>
+{% else %}
+<h1>it's broke.</h1>
+{% endif %}
