@@ -1,4 +1,4 @@
-settings_secret.py
+badassWillaRobots/settings_secret.py
 *.pyc
 .DS_Store
 .env
